@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-02T13:18:34 IST" name="Suite" finished-at="2023-07-02T13:19:59 IST" duration-ms="85089">
+    <groups>
+    </groups>
+    <test started-at="2023-07-02T13:18:34 IST" name="fTest" finished-at="2023-07-02T13:19:24 IST" duration-ms="50113">
+      <class name="firsttestng.NewTestjuly23">
+        <test-method signature="cbt(java.lang.String)[pri:0, instance:firsttestng.NewTestjuly23@78e4deb0]" started-at="2023-07-02T13:18:34 IST" name="cbt" finished-at="2023-07-02T13:19:24 IST" duration-ms="49978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cbt -->
+      </class> <!-- firsttestng.NewTestjuly23 -->
+    </test> <!-- fTest -->
+    <test started-at="2023-07-02T13:19:25 IST" name="cTest" finished-at="2023-07-02T13:19:59 IST" duration-ms="34197">
+      <class name="firsttestng.NewTestjuly23">
+        <test-method signature="cbt(java.lang.String)[pri:0, instance:firsttestng.NewTestjuly23@6440112d]" started-at="2023-07-02T13:19:25 IST" name="cbt" finished-at="2023-07-02T13:19:59 IST" duration-ms="34185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cbt -->
+      </class> <!-- firsttestng.NewTestjuly23 -->
+    </test> <!-- cTest -->
+  </suite> <!-- Suite -->
+</testng-results>
